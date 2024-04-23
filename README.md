@@ -1,8 +1,8 @@
 - 👋 Hello, I’m Jordan @jordanpaulee
-- 👀 I’m interested in machine learning, data science, and developing my knowledge base and skills!
-- 🌱 In my time at William & Mary, I have studied Data Structures, Algorithms, Discrete Math, Data Science, Computer Organization, Software Development, and Machine Learning.
-- 💻 I’m looking to collaborate on any project to add to my resume, and am also open to internships
-- I am currently working at Tarter Tactical Analytical ThinkTank! Big things coming.
+- 👀 I’m interested in computer vision, financial techonology, and edge computing applications.
+- 🌱 Computer Science and Data Science at William & Mary.
+- 💻 I’m looking to collaborate on any project to add to my resume, and am also open to internships or part time work
+- I am currently working with Tarter Tactical Analytical ThinkTank as a Research Engineer.
 - 📫 How to reach me --> Email: jplee01@wm.edu
 
 <!---
