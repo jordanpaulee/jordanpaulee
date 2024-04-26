@@ -1,6 +1,4 @@
-<p align="center">
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 - 👀 I’m interested in computer vision, financial techonology, and edge computing applications.
 - 🌱 Computer Science and Data Science at William & Mary.
