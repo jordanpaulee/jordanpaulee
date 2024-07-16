@@ -3,7 +3,6 @@
 - 👀 I’m interested in computer vision, financial techonology, and edge computing applications.
 - 🌱 Computer Science and Data Science at William & Mary.
 - 💻 I’m looking to collaborate on any project to add to my resume, and am also open to internships or part time work
-- I am currently working with Tarter Tactical Analytical ThinkTank as a Research Engineer.
 - 📫 How to reach me --> Email: jplee01@wm.edu
 
 <!---
