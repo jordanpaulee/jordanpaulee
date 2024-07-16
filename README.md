@@ -2,7 +2,8 @@
 
 - 👀 I’m interested in computer vision, financial techonology, and edge computing applications.
 - 🌱 Computer Science and Data Science at William & Mary.
-- 💻 I’m looking to collaborate on any project to add to my resume, and am also open to internships or part time work
+- 💻 Currently working on ADELAIDE Home AI Project
+- 🎮 Game Dev for Enchantmint Studios on Roblox
 - 📫 How to reach me --> Email: hello@jordanpaulee.me
 
 <!---
