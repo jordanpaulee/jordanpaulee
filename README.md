@@ -1,9 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jordan%20lee&fontSize=90" />
 
-- 👀 I’m interested in computer vision, financial techonology, and machine learning applications.
-- 🌱 Computer Science and Data Science at William & Mary.
-- 💻 Currently working on ADELAIDE Home AI Project
-- 🎮 Game Dev for Enchantmint Studios on Roblox
+### My Current Tech Stack 💻
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,vscode,sklearn,opencv,anaconda,git,apple,windows)](https://skillicons.dev)
+### Experience: 
+- **BS in Computer Science at William & Mary** 
+  - Minor in Data Science
+  - (Expected May 2025)
+- **Consulting Software Development for Tarter Tactical Analytics Thinktank**
+  - (Oct 23- Jan 24) 
+### Projects:
+
+##### - [ADELAIDE Home AI Project](https://github.com/jordanpaulee/ADELAIDE). Exercise in: [![My Skills](https://skillicons.dev/icons?i=py,anaconda,opencv)](https://skillicons.dev)
+
+##### - Game Dev for Enchantmint Studios on Roblox. Exercise in: [![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio)](https://skillicons.dev)
+
+### Learning:
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,aws,cloudflare,docker,html,css,js,nodejs,react,swift,tailwind,threejs,vite,mongodb)](https://skillicons.dev)
+
+### Contact:
 - 📫 How to reach me --> Email: hello@jordanpaulee.me
 
 <!---
