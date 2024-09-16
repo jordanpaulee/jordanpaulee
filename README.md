@@ -10,9 +10,11 @@
   - (Oct 23- Jan 24) 
 ### Projects:
 
-##### - [ADELAIDE Home AI Project](https://github.com/jordanpaulee/ADELAIDE). Exercise in: [![My Skills](https://skillicons.dev/icons?i=py,anaconda,opencv)](https://skillicons.dev)
+##### - [ADELAIDE Home AI Project](https://github.com/jordanpaulee/ADELAIDE). 
+[![My Skills](https://skillicons.dev/icons?i=py,anaconda,opencv)](https://skillicons.dev)
 
-##### - Game Dev for Enchantmint Studios on Roblox. Exercise in: [![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio)](https://skillicons.dev)
+##### - Game Dev for Enchantmint Studios on Roblox. 
+[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio)](https://skillicons.dev)
 
 ### Learning:
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,aws,cloudflare,docker,html,css,js,nodejs,react,swift,tailwind,threejs,vite,mongodb)](https://skillicons.dev)
