@@ -19,6 +19,9 @@
 ### Learning:
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,aws,cloudflare,docker,html,css,js,nodejs,react,swift,tailwind,threejs,vite,mongodb)](https://skillicons.dev)
 
+### Certifications:
+- To be updated...
+
 ### Contact:
 - 📫 How to reach me --> Email: hello@jordanpaulee.me
 
