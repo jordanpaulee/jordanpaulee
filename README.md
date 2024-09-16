@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=4&height=300&section=header&text=jordan%20lee.&fontColor=ffffff&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30&height=300&section=header&text=jordan%20lee.&fontColor=ffffff&fontSize=90" />
 
 ### My Current Tech Stack 💻
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,vscode,sklearn,opencv,anaconda,git,apple,windows)](https://skillicons.dev)
