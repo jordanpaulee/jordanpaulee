@@ -6,7 +6,7 @@
 - **BS in Computer Science at William & Mary** 
   - Minor in Data Science
   - (Expected May 2025)
-- **Consulting Software Development for Tarter Tactical Analytics Thinktank**
+- **Consulting Software Developer for Tarter Tactical Analytics Thinktank**
   - (Oct 23- Jan 24) 
 ### Projects:
 
