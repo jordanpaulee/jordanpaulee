@@ -7,6 +7,7 @@
   - Minor in Data Science
   - (Expected May 2025)
 - **Consulting Software Developer for Tarter Tactical Analytics Thinktank**
+- Mathematical modelling in Python with NumPy
   - (Oct 23- Jan 24) 
 ### Projects:
 
