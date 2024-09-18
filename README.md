@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio)](https://skillicons.dev)
 
 ### What I'm Learning:
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,aws,cloudflare,docker,html,css,js,nodejs,react,swift,tailwind,threejs,vite,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,aws,kubernetes,cloudflare,docker,html,css,js,nodejs,react,tailwind,threejs,vite,mongodb)](https://skillicons.dev)
 
 ### Certifications:
 - To be updated...
