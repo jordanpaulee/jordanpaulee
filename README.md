@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30&height=300&section=header&text=jordan%20lee.&fontColor=ffffff&fontSize=90" />
 
 ### My Current Tech Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,vscode,vim,sklearn,opencv,anaconda,git,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,vscode,vim,sklearn,opencv,flask,SQLite,anaconda,git,apple,windows)](https://skillicons.dev)
 ### Experience: 
 - **BS in Computer Science at William & Mary** 
   - Minor in Data Science
