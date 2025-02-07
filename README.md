@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30&height=300&section=header&text=jordan%20lee.&fontColor=ffffff&fontSize=90" />
 
 ### My Current Tech Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,html,vscode,vim,sklearn,opencv,flask,sqlite,anaconda,git,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,html,css,vscode,vim,docker,flask,sqlite,tensorflow,pytorch,opencv,anaconda,git,apple,windows,linux,kali,debian)](https://skillicons.dev)
 ### Experience: 
 - **BS in Computer Science at William & Mary** 
   - Minor in Data Science
@@ -11,17 +11,19 @@
   - (Oct 23- Jan 24) 
 ### Projects:
 
-#### [ADELAIDE Home AI Project](https://github.com/jordanpaulee/ADELAIDE). 
+#### [ADELAIDE Home AI Project (In Development)](https://github.com/jordanpaulee/ADELAIDE). 
+- This project serves as a way for me to learn the components of Smart Home tech. I am working through the modules before integrating it into a larger system. Right now there is a basic Computer Vision component, and an implementation of Llama 3 that gets fed into a text to speech function to allow for voice interaction with a Llama 3 instance (email me for an API key!). This is a bare bones project at the moment and will be expanded as time permits.
+
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,opencv)](https://skillicons.dev)
 
-#### Game Dev for Enchantmint Studios on Roblox. 
-[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio)](https://skillicons.dev)
-
 ### What I'm Learning:
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,aws,kubernetes,cloudflare,docker,css,js,nodejs,react,tailwind,threejs,vite,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,js)](https://skillicons.dev)
 
 ### Certifications:
-- To be updated...
+- Studying Network+
+- Studying Security+
+- Studying PenTest+
+- Studying AWS Cloud Practitioner
 
 ### Contact:
 - 📫 How to reach me --> Email: hello@jordanpaulee.me
