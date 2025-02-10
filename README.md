@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,opencv)](https://skillicons.dev)
 
 ### What I'm Learning:
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,aws,kubernetes,js)](https://skillicons.dev)
 
 ### Certifications:
 - Studying Network+
