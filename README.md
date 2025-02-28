@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30&height=300&section=header&text=jordan%20lee.&fontColor=ffffff&fontSize=90" />
 
 ### My Current Tech Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,html,css,vscode,vim,docker,flask,sqlite,tensorflow,pytorch,opencv,anaconda,git,apple,windows,linux,kali,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,html,css,vscode,bash,vim,docker,flask,sqlite,tensorflow,pytorch,opencv,anaconda,git,apple,windows,linux,kali,debian&perline=11)](https://skillicons.dev)
 ### Experience: 
 - **BS in Computer Science at William & Mary** 
   - Minor in Data Science
@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,opencv)](https://skillicons.dev)
 
 ### What I'm Learning:
-[![My Skills](https://skillicons.dev/icons?i=tailwind,aws,kubernetes,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,js)](https://skillicons.dev)
 
 ### Certifications:
 - Studying Network+
