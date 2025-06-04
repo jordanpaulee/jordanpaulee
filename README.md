@@ -5,7 +5,7 @@
 ### Experience: 
 - **BS in Computer Science at William & Mary** 
   - Minor in Data Science
-  - (Expected May 2025)
+  - Graduated May '25
 - **Software Development Intern at OptaFi**
   - Healthcare cloud computing
   - (Apr 25 - Current) 
