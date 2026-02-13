@@ -3,15 +3,16 @@
 ### My Current Tech Stack 💻
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,nextjs,nestjs,tailwind,css,postgres,supabase,nodejs,docker,azure,aws,visualstudio,vscode,py,apple,windows,linux&perline=10)](https://skillicons.dev)
 ### Experience: 
-- **BS in Computer Science at William & Mary** 
-  - Minor in Data Science
-  - Graduated May '25
 - **Software Developer Intern at OptaFi**
   - Healthcare cloud computing
   - (Apr 25 - Current) 
 - **Consulting Software Developer for Tarter Tactical Analytics Thinktank**
   - Mathematical research modeling in Python
-  - (Oct 23- Jan 24) 
+  - (Oct 23- Jan 24)
+- **BS in Computer Science at William & Mary** 
+  - Minor in Data Science
+  - Graduated May '25
+ 
 ### Projects:
 
 #### FrontDoor (ChurchAI) - Closed Source 
