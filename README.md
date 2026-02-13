@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30&height=300&section=header&text=jordan%20lee.&fontColor=ffffff&fontSize=90" />
 
 ### My Current Tech Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,aws,visualstudio,vscode,py,sqlite,anaconda,git,apple,windows,linux,kali&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,nextjs,nestjs,tailwind,css,postgres,supabase,nodejs,docker,azure,aws,visualstudio,vscode,py,apple,windows,linux&perline=10)](https://skillicons.dev)
 ### Experience: 
 - **BS in Computer Science at William & Mary** 
   - Minor in Data Science
   - Graduated May '25
-- **Software Development Intern at OptaFi**
+- **Software Developer Intern at OptaFi**
   - Healthcare cloud computing
   - (Apr 25 - Current) 
 - **Consulting Software Developer for Tarter Tactical Analytics Thinktank**
@@ -14,13 +14,14 @@
   - (Oct 23- Jan 24) 
 ### Projects:
 
-#### [ADELAIDE Home AI Project (In Development)](https://github.com/jordanpaulee/ADELAIDE). 
-- This project serves as a way for me to learn the components of Smart Home tech. I am working through the modules before integrating it into a larger system. Right now there is a basic Computer Vision component, and an implementation of Llama 3 that gets fed into a text to speech function to allow for voice interaction with a Llama 3 instance (email me for an API key!). This is a bare bones project at the moment and will be expanded as time permits.
+#### FrontDoor (ChurchAI) - Closed Source 
+- A multi-tenant AI SaaS MVP enabling churches to deploy an embeddable knowledge assistant. The platform ingests approved documents and generates context-aware responses using LLM integration with structured prompt grounding.
 
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,opencv)](https://skillicons.dev)
+- It provides congregants with instant answers about ministries, beliefs, and events while helping staff reduce repetitive inquiries and maintain consistent communication across digital channels.
 
-### What I'm Learning:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+- Designed with multi-tenant separation and scalable API architecture for future RAG and enterprise expansion.
+
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,nextjs,nestjs,tailwind,css,postgres,supabase,nodejs,docker)](https://skillicons.dev)
 
 ### Contact:
 - 📫 How to reach me --> Email: hello@jordanpaulee.me
