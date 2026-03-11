@@ -24,7 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,nextjs,nestjs,tailwind,css,postgres,supabase,nodejs,docker)](https://skillicons.dev)
 
-### Chrona – Financial Forecasting Engine (Weekend Research Project)
+### Chrona – Financial Forecasting Engine
 - Built a personal fintech analytics engine to experiment with time-series modeling, pricing analysis, and forward spend forecasting.
 
 - Designed KPI-driven dashboards for tier comparison, trend visualization, and exportable reporting to simulate real-world decision workflows.
@@ -32,6 +32,16 @@
 - Integrated historical data ingestion with projection logic to test scenario modeling and cost outlook assumptions.
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,redis,postgres,pnpm,docker)](https://skillicons.dev)
+
+### IsoType - Deterministic Natural Language Programming
+
+  - Building an experimental toy programming language in Rust to explore deterministic executable pseudocode positioned between agentic coding systems and traditional programming
+    languages.
+  - Designing a constrained, natural-language-like syntax with explicit normalization, parsing, and runtime semantics so readable pseudocode can execute without probabilistic
+    interpretation.
+  - Structuring the project as a public research repository with a staged language pipeline, draft specification, roadmap, and interpreter architecture for incremental implementation.
+
+  [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 
 ### Contact:
 - 📫 How to reach me --> Email: hello@jordanpaulee.me
