@@ -3,7 +3,7 @@
 ## My Current Tech Stack 💻
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,nextjs,angular,nestjs,tailwind,css,nodejs,redis,postgres,supabase,docker,azure,aws,visualstudio,vscode,py,apple,windows,linux&perline=11)](https://skillicons.dev)
 ## Experience: 
-- **Software Engineering Intern at OptaFi**
+- **Software Engineer at OptaFi**
   - Healthcare cloud computing
   - FinOps Focus
   - (Apr 25 - Current) 
